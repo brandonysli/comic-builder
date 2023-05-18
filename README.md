@@ -7,6 +7,7 @@ This website is dedicated to ENGL 1167 FWS: Reading Now taught by Oona Cullen. T
 - React.js
 - Fabric.js
 - Tabler Icons
+- html2canvas
 
 ## Setup
 
