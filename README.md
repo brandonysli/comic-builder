@@ -10,10 +10,10 @@ This website is dedicated to ENGL 1167 FWS: Reading Now taught by Oona Cullen. T
 
 ## Setup
 
-1. Install Node.js
+1. Install Node.js and yarn
 2. Run the following:
 
 ```sh
-npm install
-npm start
+yarn install
+yarn start
 ```
